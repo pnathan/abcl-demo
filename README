@@ -1,0 +1,5 @@
+Thanks for looking at this demo!
+
+In order to both compile and run, you will need to explicity set the ABCL jar in your classpath on the javac and on the java invocations.
+
+This project is in the public domain; formally, see the LICENSE file.
